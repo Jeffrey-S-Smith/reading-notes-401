@@ -59,3 +59,11 @@ LIKE SIMILAR TO - a string matches a regex pattern
 [Find the title and director of each film](img/sql-bolt-ex1-title-director.jpg),
 [Find the title and year of each film](img/sql-bolt-ex1-title-year.jpg),
 [Find all the information about each film](img/sql-bolt-ex1-all.jpg),
+
+## SQL Lesson 1:  2: Queries with constraints
+
+[Find the movie with a row id of 6](img/sql-bolt-ex2-id.jpg),
+[Find the movies released in the years between 2000 and 2010](img/sql-bolt-ex2-between.jpg),
+[Find the movies not released in the years between 2000 and 2010](img/sql-bolt-ex2-not-between.jpg),
+[Find the first 5 Pixar movies and their release year](img/sql-bolt-ex2-5-pixar.jpg),
+
