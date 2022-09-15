@@ -89,3 +89,8 @@ LIKE SIMILAR TO - a string matches a regex pattern
 [List the two largest cities in Mexico (by population)](img/sql-bolt-ex5-select-review4.jpg),
 [List the third and fourth largest cities (by population) in the United States and their population](img/sql-bolt-ex5-select-review5.jpg),
 
+## SQL Lesson 6: Multi-table queries with JOINs
+
+[Find the domestic and international sales for each movie](img/sql-bolt-ex6-joins1.jpg),
+[Show the sales numbers for each movie that did better internationally rather than domestically](img/sql-bolt-ex6-joins2.jpg),
+[List all the movies by their ratings in descending order](img/sql-bolt-ex6-joins3.jpg),
