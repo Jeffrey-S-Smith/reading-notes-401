@@ -80,3 +80,12 @@ LIKE SIMILAR TO - a string matches a regex pattern
 [List the last four Pixar movies released (ordered from most recent to least)](img/sql-bolt-ex4-filter-sorting2.jpg),
 [List the first five Pixar movies sorted alphabetically](img/sql-bolt-ex4-filter-sorting3.jpg),
 [List the next five Pixar movies sorted alphabetically](img/sql-bolt-ex4-filter-sorting4.jpg),
+
+## SQL Lesson 5: Review Simple SELECT Queries
+
+[List all the Canadian cities and their populations](img/sql-bolt-ex5-select-review1.jpg),
+[Order all the cities in the United States by their latitude from north to south)](img/sql-bolt-ex5-select-review2.jpg),
+[List all the cities west of Chicago, ordered from west to east](img/sql-bolt-ex5-select-review3.jpg),
+[List the two largest cities in Mexico (by population)](img/sql-bolt-ex5-select-review4.jpg),
+[List the third and fourth largest cities (by population) in the United States and their population](img/sql-bolt-ex5-select-review5.jpg),
+
