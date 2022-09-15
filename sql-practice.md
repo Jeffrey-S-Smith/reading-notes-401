@@ -67,3 +67,9 @@ LIKE SIMILAR TO - a string matches a regex pattern
 [Find the movies not released in the years between 2000 and 2010](img/sql-bolt-ex2-not-between.jpg),
 [Find the first 5 Pixar movies and their release year](img/sql-bolt-ex2-5-pixar.jpg),
 
+## SQL Lesson 3: Queries with constraints
+
+[Find all the Toy Story movies](img/sql-bolt-ex3-constraint1.jpg),
+[Find all the movies directed by John Lasseter](img/sql-bolt-ex3-constraint2.jpg),
+[Find all the movies (and director) not directed by John Lasseter](img/sql-bolt-ex3-constraint3.jpg),
+[Find all the WALL-* movies](img/sql-bolt-ex3-constraint4.jpg),
