@@ -105,3 +105,10 @@ When inserting data into a database, we need to use an INSERT statement, which d
 
 [Add the studio's new production, Toy Story 4 to the list of movies (you can use any director)](img/sql-bolt-ex13-insert1.jpg),
 [Add the studio's new production, Toy Story 4 to the list of movies (you can use any director)](img/sql-bolt-ex13-insert2.jpg),
+
+## SQL Lesson 14: Updating rows
+
+[The director for A Bug's Life is incorrect, it was actually directed by John Lasseter)](img/sql-bolt-ex14-update1.jpg),
+[The year that Toy Story 2 was released is incorrect, it was actually released in 1999)](img/sql-bolt-ex14-update2.jpg),
+[Both the title and director for Toy Story 8 is incorrect! The title should be "Toy Story 3" and it was directed by Lee Unkrich](img/sql-bolt-ex14-update3.jpg),
+
