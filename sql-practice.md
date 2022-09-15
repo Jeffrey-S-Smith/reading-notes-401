@@ -112,3 +112,7 @@ When inserting data into a database, we need to use an INSERT statement, which d
 [The year that Toy Story 2 was released is incorrect, it was actually released in 1999)](img/sql-bolt-ex14-update2.jpg),
 [Both the title and director for Toy Story 8 is incorrect! The title should be "Toy Story 3" and it was directed by Lee Unkrich](img/sql-bolt-ex14-update3.jpg),
 
+## SQL Lesson 15: Deleting rows
+
+[This database is getting too big, lets remove all movies that were released before 2005.](img/sql-bolt-ex15-delete1.jpg),
+[Andrew Stanton has also left the studio, so please remove all movies directed by him.](img/sql-bolt-ex15-delete2.jpg),
