@@ -73,3 +73,10 @@ LIKE SIMILAR TO - a string matches a regex pattern
 [Find all the movies directed by John Lasseter](img/sql-bolt-ex3-constraint2.jpg),
 [Find all the movies (and director) not directed by John Lasseter](img/sql-bolt-ex3-constraint3.jpg),
 [Find all the WALL-* movies](img/sql-bolt-ex3-constraint4.jpg),
+
+## SQL Lesson 4: Filtering and sorting Query results
+
+[List all directors of Pixar movies (alphabetically), without duplicates](img/sql-bolt-ex4-filter-sorting1.jpg),
+[List the last four Pixar movies released (ordered from most recent to least)](img/sql-bolt-ex4-filter-sorting2.jpg),
+[List the first five Pixar movies sorted alphabetically](img/sql-bolt-ex4-filter-sorting3.jpg),
+[List the next five Pixar movies sorted alphabetically](img/sql-bolt-ex4-filter-sorting4.jpg),
