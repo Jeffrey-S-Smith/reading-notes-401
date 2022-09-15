@@ -163,3 +163,8 @@ This table has no constraints.
 
 [Add a column named Aspect_ratio with a FLOAT data type to store the aspect-ratio each movie was released in.](img/sql-bolt-ex17-alter1.jpg),
 [Add another column named Language with a TEXT data type to store the language that the movie was released in. Ensure that the default for this language is English.](img/sql-bolt-ex17-alter2.jpg),
+
+## SQL Lesson 18: Dropping tables
+
+[We've sadly reached the end of our lessons, lets clean up by removing the Movies table.](img/sql-bolt-ex18-droptable1.jpg),
+[And drop the BoxOffice table as well.](img/sql-bolt-ex18-droptable2.jpg),
