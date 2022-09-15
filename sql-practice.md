@@ -94,3 +94,14 @@ LIKE SIMILAR TO - a string matches a regex pattern
 [Find the domestic and international sales for each movie](img/sql-bolt-ex6-joins1.jpg),
 [Show the sales numbers for each movie that did better internationally rather than domestically](img/sql-bolt-ex6-joins2.jpg),
 [List all the movies by their ratings in descending order](img/sql-bolt-ex6-joins3.jpg),
+
+## SQL Lesson 13: Inserting rows
+
+Schema is a table in a database as a two-dimensional set of rows and columns, with the columns being the properties and the rows being instances of the entity in the table. In SQL, the database schema is what describes the structure of each table, and the datatypes that each column of the table can contain.
+
+## Inserting new data
+
+When inserting data into a database, we need to use an INSERT statement, which declares which table to write into, the columns of data that we are filling, and one or more rows of data to insert. In general, each row of data you insert should contain values for every corresponding column in the table. You can insert multiple rows at a time by just listing them sequentially.
+
+[Add the studio's new production, Toy Story 4 to the list of movies (you can use any director)](img/sql-bolt-ex13-insert1.jpg),
+[Add the studio's new production, Toy Story 4 to the list of movies (you can use any director)](img/sql-bolt-ex13-insert2.jpg),
