@@ -158,3 +158,8 @@ Create a new table named Database with the following columns:
 This table has no constraints.
 
 [Create a new table named Database with the following columns:](img/sql-bolt-ex16-create1.jpg),
+
+## SQL Lesson 17: Altering tables
+
+[Add a column named Aspect_ratio with a FLOAT data type to store the aspect-ratio each movie was released in.](img/sql-bolt-ex17-alter1.jpg),
+[Add another column named Language with a TEXT data type to store the language that the movie was released in. Ensure that the default for this language is English.](img/sql-bolt-ex17-alter2.jpg),
