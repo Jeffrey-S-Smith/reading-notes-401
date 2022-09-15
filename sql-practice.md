@@ -168,3 +168,7 @@ This table has no constraints.
 
 [We've sadly reached the end of our lessons, lets clean up by removing the Movies table.](img/sql-bolt-ex18-droptable1.jpg),
 [And drop the BoxOffice table as well.](img/sql-bolt-ex18-droptable2.jpg),
+
+## SQL Lesson Finished
+
+[Finished.](https://sqlbolt.com/lesson/end),
