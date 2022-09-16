@@ -52,6 +52,8 @@ ILIKE - case insensitive version of
 LIKE SIMILAR TO - a string matches a regex pattern
 ```
 
+* All blue links have images of each exercise.
+
 ## SQL Lesson 1: SELECT queries
 
 [Find the title of each film](img/sql-bolt-ex1-title.jpg),
