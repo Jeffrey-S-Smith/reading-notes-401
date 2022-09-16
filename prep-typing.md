@@ -9,10 +9,8 @@
 3. Take a screenshot of each lesson summary that you complete.
 
 ## JavaScript JQuery
-<div style="width:50px; height:50px">
-![typing-practice-javascript-lesson-1](img/typing-practice-javascript-lesson-1.jpg),
-</div>
 
+![typing-practice-javascript-lesson-1](img/typing-practice-javascript-lesson-1.jpg),
 ![typing-practice-javascript-lesson-2](img/typing-practice-javascript-lesson-2.jpg),
 ![typing-practice-javascript-lesson-3](img/typing-practice-javascript-lesson-3.jpg),
 ![typing-practice-javascript-lesson-4](img/typing-practice-javascript-lesson-4.jpg),
