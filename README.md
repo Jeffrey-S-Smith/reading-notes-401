@@ -10,6 +10,7 @@
 
 - [engineering-reading](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/engineering-reading.md)
 - [sql-practice](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/sql-practice.md)
+- [terminal-practice](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/terminal-practice.md)
 - [reading-class-01](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class1.md)
 - [reading-class-02](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class2.md)
 - [reading-class-03](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class3.md)
