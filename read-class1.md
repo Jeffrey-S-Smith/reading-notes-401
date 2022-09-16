@@ -1,0 +1,22 @@
+# Readings: Node Ecosystem
+
+[An Introduction to Node.js on sitepoint.com by James Hibbard](https://www.sitepoint.com/an-introduction-to-node-js/),
+
+1. How would you describe Node to a non-technical friend?
+
+    Node. js is an open-source runtime environment for JavaScript, which uses to run your code inside your console and not actually deal with your browser at all. In other words, with Node. js you'll be able to run programs directly on your computer or on the server side.
+
+2. What does it mean that Node is a JavaScript runtime?
+    Node. js is a JavaScript runtime environment that achieves low latency and high throughput by taking a “non-blocking” approach to serving requests. In other words, Node. js wastes no time or resources on waiting for I/O requests to return.
+
+3. What is Node used for?
+    Node.js is an open-source, cross-platform,
+    back-end JavaScript runtime environment
+    that runs on the V8 engine and executes
+    JavaScript code outside a web browser.
+
+## If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.
+
+This was about What Is Node and When Should I Use It. Also how to install it. What Kind of Apps Is Node.js Suited To. What Are the Advantages of Node.js.
+
+## Things I want to know more about
