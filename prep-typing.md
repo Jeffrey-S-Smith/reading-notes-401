@@ -9,16 +9,19 @@
 3. Take a screenshot of each lesson summary that you complete.
 
 ## JavaScript JQuery
+<div style="width:50px; height:50px">
+![typing-practice-javascript-lesson-1](img/typing-practice-javascript-lesson-1.jpg),
+</div>
 
-[typing-practice-javascript-lesson-1](img/typing-practice-javascript-lesson-1.jpg),
-[typing-practice-javascript-lesson-2](img/typing-practice-javascript-lesson-2.jpg),
-[typing-practice-javascript-lesson-3](img/typing-practice-javascript-lesson-3.jpg),
-[typing-practice-javascript-lesson-4](img/typing-practice-javascript-lesson-4.jpg),
-[typing-practice-javascript-lesson-5](img/typing-practice-javascript-lesson-5.jpg),
-[typing-practice-javascript-lesson-6](img/typing-practice-javascript-lesson-6.jpg),
-[typing-practice-javascript-lesson-7](img/typing-practice-javascript-lesson-7.jpg),
-[typing-practice-javascript-lesson-8](img/typing-practice-javascript-lesson-8.jpg),
-[typing-practice-javascript-lesson-9](img/typing-practice-javascript-lesson-9.jpg),
-[typing-practice-javascript-lesson-10](img/typing-practice-javascript-lesson-10.jpg),
-[typing-practice-javascript-lesson-11)](img/typing-practice-javascript-lesson-11.jpg),
-[typing-practice-javascript-lesson-finished)](img/lesson-finished.jpg),
+![typing-practice-javascript-lesson-2](img/typing-practice-javascript-lesson-2.jpg),
+![typing-practice-javascript-lesson-3](img/typing-practice-javascript-lesson-3.jpg),
+![typing-practice-javascript-lesson-4](img/typing-practice-javascript-lesson-4.jpg),
+![typing-practice-javascript-lesson-5](img/typing-practice-javascript-lesson-5.jpg),
+![typing-practice-javascript-lesson-6](img/typing-practice-javascript-lesson-6.jpg),
+![typing-practice-javascript-lesson-7](img/typing-practice-javascript-lesson-7.jpg),
+![typing-practice-javascript-lesson-8](img/typing-practice-javascript-lesson-8.jpg),
+![typing-practice-javascript-lesson-9](img/typing-practice-javascript-lesson-9.jpg),
+![typing-practice-javascript-lesson-10](img/typing-practice-javascript-lesson-10.jpg),
+![typing-practice-javascript-lesson-11)](img/typing-practice-javascript-lesson-11.jpg),
+![typing-practice-javascript-lesson-finished)](img/lesson-finished.jpg),
+</div>
