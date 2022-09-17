@@ -21,3 +21,7 @@
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
     
     I will try to solve smaller problems, take a break, pair with another programmer or TA and try to also make the problem concrete.
+
+This section how things around you can effect you and how you can deal with what effects you with some different tools that can change your mindset on dealing or coping with the effect.
+
+## Things I want to know more about
