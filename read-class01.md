@@ -17,6 +17,6 @@
 
 ## If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.
 
-This was about What Is Node and When Should I Use It. Also how to install it. What Kind of Apps Is Node.js Suited To. What Are the Advantages of Node.js.
+This reading was about what is node and when should you use it. Also how to install it. what kind of Apps is Node.js suited to. What are the advantages of Node.js.
 
 ## Things I want to know more about
