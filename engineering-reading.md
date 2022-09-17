@@ -16,7 +16,8 @@
 
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can?
 
-The thing that I bring to this career is I diverse technical background in different areas of expertise and I have good organizational skill with time management.  
+    The thing that I bring to this career is I diverse technical background in different areas of expertise and I have good organizational skill with time management.  
 
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+    
     I will try to solve smaller problems, take a break, pair with another programmer or TA and try to also make the problem concrete.
