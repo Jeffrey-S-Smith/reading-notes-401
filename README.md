@@ -14,7 +14,7 @@
 - [Data Structures and Algorithms](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/data-structures-and-algorithms.md)
 - [Growth Mindset](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/mindset.md)
 - [Typing Practice](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/prep-typing.md)
-- [Node Ecosystem](node-ecosystem.md)
+- [Node Ecosystem](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/node-ecosystem.md)
 - [reading-class-02](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class2.md)
 - [reading-class-03](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class3.md)
 - [reading-class-04](https://github.com/Jeffrey-S-Smith/reading-notes-401/blob/main/read-class4.md)
