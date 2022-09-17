@@ -10,17 +10,9 @@
 * Watch [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 * Assess [your emotional intelligence.](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.html) If you have done it in the past, now you can identify the areas you have grown in recently.
 
-## Measuring Emotional Intelligence
-
-Respond here with at least 4-5 sentences about the results, highlight any new insights. Only instructional staff will see your comments.
-
 * Assess [your biases.](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.html) If you have done it in the past, now you can identify the areas you have grown in recently.
 
-## Assessing Bias
-
-Respond here with at least 4-5 sentences about the results, highlight any new insights. Only instructional staff will see your comments.
-
-A growth mindset is the key to success. A growth mindset is a mindset that someone who is able to learn and grow has. Instead of being or feeling limited to natural abilities or intelligence, a growth mindset pushes a person to grow and develop in the face of adversity and obstacles instead of falling down and giving up.
+I feel that a growth mindset is the key to success. A growth mindset is a mindset that someone who is able to learn and grow has. Instead of being or feeling limited to natural abilities or intelligence, a growth mindset pushes a person to grow and develop in the face of adversity and obstacles instead of falling down and giving up.
 
 Here are a couple traits that people with a growth mindset tend to have.
 
