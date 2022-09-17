@@ -20,8 +20,12 @@ In order to prepare yourself, here are a few short readings and videos to give y
 ## Discussion Questions
 
 1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+  You want to choose a data structure for your program you need to  consider these factors: The size of the data. The size of the storage. The data dynamics, such as changing or editing the data.
+
 2. How can we ensure that we’ll avoid an infinite recursive call stack?
 
-* If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.
+    To prevent infinite recursion, you need at least one branch (i.e. of an if/else statement) that does not make a recursive call. Branches without recursive calls are called base cases; branches with recursive calls are called recursive cases. Functions can also be mutually recursive.
+
+* This reading is foundational knowledge Data Structures and Algorithms. Data Structures and Algorithms for javascript are a set of programming instructions, known as inputs and outputs, that allow a data operation to function precisely at every execution. JavaScript data structures are a method of organizing and storing data in a computer for efficient access and modification when necessary.
 
 ## Things I want to know more about
