@@ -10,6 +10,7 @@ Reading
     Middleware is software which lies between an operating system and the applications running on it. Essentially functioning as hidden translation layer, middleware enables communication and data management for distributed applications.
 
 2. Express the most popular **\_\_** **\_\_** **\_\_**_\_\__.
+    Express is the most popular Node. js framework because it requires minimum setup to start an application or an API and is fast, and unopinionated at the same time. In other words, it does not enforces its own philosophy that a application or API should be built in a specific way, unlike Rails and Django.
 
 3. Express is “unopinionated.” What does that mean?
     It means there is no one right way to do things that Express will force you into.
@@ -68,6 +69,6 @@ Bookmark and Review
 
 [supertest](https://github.com/visionmedia/supertest)
 
+* This was more into Node.JS and express and TDD, CI/CD.
+
 ## Things I want to know more about
-Express the most popular **\_\_** **\_\_** **\_\_**_\_\__.
-I do not understand this at all?
