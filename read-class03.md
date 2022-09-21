@@ -7,22 +7,37 @@ Readings
 [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 1. Classes are a template for creating **\_\_**\_\_.
+    A class is a template for creating a particular form of object. 
+
 2. Can a class declaration be hoisted?
+    Hoisting is a JavaScript technique which moves variables and function declarations to the top of their scope before code execution begins. Within a scope no matter
+
 3. How would you describe a constructor and contextual “this” to a non-technical friend?
+    A constructor is a special method of a class or structure in object-oriented programming that initializes a newly created object of that type. Whenever an object is created, the constructor is called automatically.
+    Context in JavaScript is related to objects. It refers to the object within the function being executed. this refers to the object that the function is executing in. this is determined by how a function is invoked.
 
 [Using Express Routing](https://expressjs.com/en/guide/routing.html)
 
 1. Within Express, what does routing refer to?
+    Routing refers to how an application responds to a client request to a particular endpoint, which is a URI (or a path) and a specific HTTP request method (GET, POST, etc.). Each route can have one or more handler functions, which are executed when the route is matched.
+
 2. What is the difference between a route path and a route method?
+    A route can be part of a path when only a section of the path is actually traveled. A path is always physical available and may end in a rather unclear manner (e.g A footpath in a forest that blurs away). One or more paths can be part of a route.
+    Routing is the process of selecting a path for traffic in a network or between or across multiple networks. Broadly, routing is performed in many types of networks, including circuit-switched networks, such as the public switched telephone network (PSTN), and computer networks, such as the Internet.
+
 3. When is it appropriate to add `next` as a parameter to a route handler and what must you do if `next` has been passed to your middleware as a parameter?
+    What is the use of the next parameter in this middleware function?
+Next is used to pass control to the next middleware function. If not the request will be left hanging or open.
 
 [Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
 
 1. What is an Express Router?
+    Express router is a class which helps us to create router handlers. By router handler i mean to not just providing routing to our app but also can extend this routing to handle validation, handle 404 or other errors etc.
+
 2. By what mean do we initialize `express.Router()` in an express server?
 3. What do we use route middleware for?
+    Middleware functions are functions that have access to the request object ( req ), the response object ( res ), and the next function in the application's request-response cycle. The next function is a function in the Express router which, when invoked, executes the middleware succeeding the current middleware.
 
-* 
+* This reading is about Express REST API.
 
 ## Things I want to know more about
-
