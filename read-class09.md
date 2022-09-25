@@ -24,8 +24,7 @@ Resources
 Read: [Linked Lists](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html),
 Read: [What’s a Linked List, Anyway pt1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d),
 Read: [What’s a Linked List, Anyway pt2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
-
-## [Big O: Analysis of Algorithm Efficiency](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
+[Big O: Analysis of Algorithm Efficiency](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/big_oh.html)
 
 Big O notation - apparently, the 'O' in big O stands for *Ordnung*, meaning the order of approximation.
 
@@ -72,13 +71,12 @@ Orders of Growth - the order of magnitude that time and space requirements go up
 
 How do we analyze big on with pen and paper?
 
-
 ![Efficiency Notation](../images/EfficiencyNotations.png "Efficiency Notation")
 
 Notes:
 
-- look for nested for loops
-- or nested loops, in general
-- recursion
-- watch a video on simplifying calculating Big O notation for algorithms
-- how to explain the notation in plain English
+* look for nested for loops
+* or nested loops, in general
+* recursion
+* watch a video on simplifying calculating Big O notation for algorithms
+* how to explain the notation in plain English
