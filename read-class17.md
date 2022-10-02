@@ -7,17 +7,41 @@ Reading
 [AWS S3](https://aws.amazon.com/s3/)
 
 1. What is Amazon S3?
+    Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere.
+
 2. Name some use cases for Amazon S3.
+    Many customers use Amazon S3 to store enterprise application data, as well as to store cloud native application production data. With Amazon S3, you can upload any amount of data and access it anywhere in order to deploy applications faster and reach more end users.
+
 3. Name some benefits of using Amazon S3.
+    Scale storage resources to meet fluctuating needs with 99.999999999% (11 9s) of data durability. Store data across Amazon S3 storage classes to reduce costs without upfront investment or hardware refresh cycles. Protect your data with unmatched security, compliance, and audit capabilities. organization-wide visibility.
 
 [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
 
 1. What is AWS Lambda?
+    Lambda is a compute service that lets you build applications that respond quickly to new information and events.
+
 2. Name some use cases for AWS Lambdas.
+    AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you. These events may include changes in state or an update, such as a user placing an item in a shopping cart on an ecommerce website.
+
 3. Describe “serverless” to a non-technical friend.
+    Serverless is a cloud-native development model that allows developers to build and run applications without having to manage servers. There are still servers in serverless, but they are abstracted away from app development.
 
 [CDN](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)
 
 1. What is a CDN?
+    A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content.
+
 2. How does a CDN work with relation to the website visitor?
+    A CDN is a network of servers that distributes content from an “origin” server throughout the world by caching content close to where each end user is accessing the internet via a web-enabled device. The content they request is first stored on the origin server and is then replicated and stored elsewhere as needed.
+
 3. What are the benefits of employing a CDN?
+  
+  * Decrease Server Load. ...
+  * Improve Site Speed and Website Performance. ...
+  * Allow Audience Segmentation Based on User Analytics. ...
+  * Reduce Packet Loss and Lower Network Latency. ...
+  * Enable Advanced Website Security. ...
+  * Enhance Content Availability. ...
+  * Contribute to Cost Savings by Reducing Bandwidth.
+
+  ## Things I want to know more about
