@@ -6,17 +6,25 @@ Reading
 
 [AWS SQS vs SNS](https://medium.com/awesome-cloud/aws-difference-between-sqs-and-sns-61a397bf76c5)
 
-1. What is the difference betweeen SQS and SNS?
+1. What is the difference between SQS and SNS?
+    In simple terms, SNS - sends messages to the subscriber using push mechanism and no need of pull. SQS - it is a message queue service used by distributed applications to exchange messages through a polling model, and can be used to decouple sending and receiving components.
+
 2. What are some use cases for both SNS and SQS?
+    SQS is mainly used to decouple applications or integrate applications. SNS is used to broadcast messages and it's up to the receivers how they interpret and process those messages.
 
 [AWS SNS and SQS](https://www.youtube.com/watch?v=mXk0MNjlO7A)
 
 1. Describe how to use SQS and SNS in a “fanout” pattern.
+   Sign in to the Amazon SQS console . On the navigation panel, choose Queues. From the list of queues, choose the queue to subscribe to the Amazon SNS topic. From Actions, choose Subscribe to Amazon SNS topic. 
+
 2. Explain how “push notifications” work, using SNS.
+    A push notification is a message that pops up on a mobile device, such as a sports score, an invitation to a flash sale or a coupon for downloading. App publishers can send them at any time, since users don't have to be in the app or using their devices to receive them.
 
 [SQS and SNS Basics](https://www.youtube.com/watch?v=UesxWuZMZqI)
 
 1. How might a large scale, distributed application make use of a Queue system like SQS?
+    SQS(Simple Queue Service) is a distributed message queuing system that allows you to scale and decouple the components of an application so that they are independent.
+    Amazon SQS is highly scalable, but there are some documented limits. We check your queues to see if they are approaching these limits: Inflight Messages. Message Size.
 
 Bookmark and Review
 -------------------
@@ -24,3 +32,6 @@ Bookmark and Review
 [SNS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SNS.html)
 
 [SQS Javascript SDK](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SQS.html)
+
+## Things I want to know more about
+
