@@ -7,8 +7,15 @@ Reading
 [Hooks and Context example](https://medium.com/swlh/snackbars-in-react-an-exercise-in-hooks-and-context-299b43fd2a2b)
 
 1. With regard to the React Context API, what does a “provider” do?
+    Every Context object comes with a Provider React component that allows consuming components to subscribe to context changes. The Provider component accepts a value prop to be passed to consuming components that are descendants of this Provider. One Provider can be connected to many consumers.
+
 2. With regard to the React Context API, how would we implement a “consumer” role?
+    We do need to create some new components, however–a provider and a consumer. 1. Initialize the Context. First, we need to create the context, which we can later ...
+    ‎1. Initialize The Context · ‎2. Create The Provider · ‎3. Create The Consumer
+
 3. Specifically with Context, how are we “wrapping” components to achieve our goals?
+    How do you wrap a component?
+To wrap one component into another with React, we add the children prop into the parent component. We create the Wrapper component that accepts the children prop. And we put children in a div. Next, we create the Child component that takes the name prop and renders some text.
 
 [Awesome React Context links](https://github.com/diegohaz/awesome-react-context)
 
