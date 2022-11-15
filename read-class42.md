@@ -45,5 +45,3 @@ Tech Company Principles
 1. [Microsoft AI Principles](https://www.microsoft.com/en-us/AI/our-approach-to-ai)
 2. [Ethical OS Toolkit](https://ethicalos.org/)
 3. [Google AI Principles](https://www.blog.google/technology/ai/ai-principles/)
-
-For each article that you choose, write a **_minimum_** 5 sentences (1 paragraph). Each reflection should be something of substance and of an acceptable quality.
