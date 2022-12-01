@@ -61,7 +61,7 @@ graph LR
     G 
 ```
 
-## What is current & current.next
+## What is current.next? current.next represents the next Node in the sequence.
 
 ```mermaid
     graph LR
