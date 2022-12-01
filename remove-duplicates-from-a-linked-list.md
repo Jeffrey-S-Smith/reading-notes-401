@@ -12,6 +12,8 @@ Head starts at 4
 
 ## output: 4 --> 3 --> 12 --> 16 --> 9
 
+## Head represents 4 & Tail represents 9
+
 ```mermaid
 graph LR
                 
