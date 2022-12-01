@@ -26,7 +26,7 @@ graph LR
    
 ```
 
-### Removes duplicates
+## Removes duplicates
 
 ```mermaid
     graph LR
@@ -48,8 +48,7 @@ graph LR
       E --> F[9]
 ```
 
-
-### What is current
+## What is current
 
 ```mermaid
     graph LR
@@ -62,7 +61,7 @@ graph LR
     G 
 ```
 
-### What is current & current.next
+## What is current & current.next
 
 ```mermaid
     graph LR
