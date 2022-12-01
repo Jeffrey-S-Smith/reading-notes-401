@@ -13,9 +13,13 @@ Head starts at 4
 ## output: 4 --> 3 --> 12 --> 16 --> 9
 
 ```mermaid
-flowchart LR 
-     4 --> 3 -->
-     12 --> 3
-     16 --> 9 --> 
-     9
+graph LR
+                
+    A[4] --> B[3]
+    B --> C[12]
+    C --> D[3]
+    D --> E[16]
+    E --> F[9]
+    F --> G[9] 
+    G --> H[null]
 ```
