@@ -65,7 +65,7 @@ graph LR
     G --> H[null]
 ```
 ```mermaid
-    graph LR
+    flowchart LR
     A[4] --> B[3]
     A --> C[12]
     A --> D[3] 
