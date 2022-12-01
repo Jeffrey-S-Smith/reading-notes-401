@@ -64,6 +64,15 @@ graph LR
     F --> G[9] 
     G --> H[null]
 ```
+```mermaid
+    graph LR
+    A[4] --> B[3]
+    A --> C[12]
+    A --> D[3] 
+    A --> E[16]
+    A --> F[9]
+    A --> G[9] 
+   ```
 
 ## Algorithm
 
@@ -110,4 +119,4 @@ function removeDuplicate() {
 
 ## Big O
 Time: O(n)
-Space: O(1)
+Space: O(n)
