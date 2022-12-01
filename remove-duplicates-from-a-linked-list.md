@@ -53,7 +53,7 @@ graph LR
 ### What is current & current.next
 
 ```mermaid
-    graph TB
+    graph LR
   current --> A[4] --> B[3]
   current.next --> B --> C[12]
     C --> D[3] 
