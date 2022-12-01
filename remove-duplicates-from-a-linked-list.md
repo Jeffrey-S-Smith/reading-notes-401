@@ -25,6 +25,7 @@ graph LR
 ```
 
 ```mermaid
+    graph LR
     A[4] --> B[3]
     B --> C[12]
     C --> D[3] --> Remove
