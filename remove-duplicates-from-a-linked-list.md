@@ -48,7 +48,7 @@ graph LR
       D --> E[9]
 ```
 
-## What is current
+## What is current? Current is the Node you are on the moment. Which right now is the starting Node with the data of 4.
 
 ```mermaid
     graph LR
@@ -85,7 +85,7 @@ graph LR
     A --> F[9] --> current.next
     A --> G[9] --> current.next
    ```
-   
+
 ## Algorithm
 
 Traverse the list from the head (start) node
