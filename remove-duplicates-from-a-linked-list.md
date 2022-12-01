@@ -20,7 +20,7 @@ graph LR
     C --> D[3]
     D --> E[16]
     E --> F[9]
-    F --> G[9] --> Tail
+    F --> G[9] <-- Tail
    
 ```
 
@@ -47,7 +47,7 @@ graph LR
     D --> E[16]
     E --> F[9]
     F --> G[9] 
-    G --> H[null]
+    G 
 ```
 
 ### What is current & current.next
@@ -61,9 +61,16 @@ graph LR
     E --> F[9]
     F --> G[9] 
     G --> H[null]
-```
 
+## Algorithm
 
+Traverse the list from the head (start) node
 
+while Traversing check if value in the node is present in any other node 
 
-```
+if it is present the remove it from list.
+
+if not in list then go to next and keep checking nodes.
+
+when all node been checked and removed then end program.
+
