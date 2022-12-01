@@ -85,19 +85,7 @@ graph LR
     A --> F[9] --> current.next
     A --> G[9] --> current.next
    ```
-
-   ```mermaid
-graph LR
-                
-    A[4] --> B[3]
-    B --> C[12]
-    C --> D[3]
-    D --> E[16]
-    E --> F[9]
-    F --> G[9] --> Tail
    
-```
-
 ## Algorithm
 
 Traverse the list from the head (start) node
@@ -126,7 +114,7 @@ class Node
 
 function removeDuplicate(head) {
 
-  /* Reference to head again*/
+  /* Reference to head*/
   let current = head;
 
   // this is where you Traverse the list till the last node
