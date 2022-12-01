@@ -77,3 +77,37 @@ if not in list then go to next and keep checking nodes.
 
 when all node been checked and removed then end program.
 
+## Code
+
+```js
+// head of the list
+
+let head = newNode();
+
+function removeDuplicate() {
+
+  // Reference to head again
+  let current = head;
+
+  // this is where you Traverse the list till the last node
+
+  while (current != null) {
+    let tempStore = current;
+
+  /* This is where we compare the current node with the next node and keep on deleting them until it matches the current node data */
+
+    while (tempStore != null && tempStore.data == current.data) {
+        tempStore = tempStore.next;
+    }
+
+    /* Then you have to set current node next to the next different element denoted by tempStore*/
+
+    current.next = tempStore;
+    current = current.next;
+  }
+}
+```
+
+## Big O
+Time: O(n)
+Space: O(1)
