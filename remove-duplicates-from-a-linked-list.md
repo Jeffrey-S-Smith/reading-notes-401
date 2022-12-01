@@ -20,7 +20,7 @@ graph LR
     C --> D[3]
     D --> E[16]
     E --> F[9]
-    F --> G[9] -->> Tail
+    F --> G[9] --> Tail
    
 ```
 
