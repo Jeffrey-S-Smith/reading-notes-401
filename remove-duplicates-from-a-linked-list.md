@@ -12,8 +12,7 @@ Head starts at 4
 
 ## output: 4 --> 3 --> 12 --> 16 --> 9
 
-```mermaid
-graph LR
+```graph LR
                 
     A[4] --> B[3]
     B --> C[12]
