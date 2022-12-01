@@ -21,6 +21,6 @@ graph LR
     D --> E[16]
     E --> F[9]
     F --> G[9] 
-    Tail
+                 Tail
     G --> H[null]
 ```
