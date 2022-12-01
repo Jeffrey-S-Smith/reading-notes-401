@@ -86,6 +86,18 @@ graph LR
     A --> G[9] --> current.next
    ```
 
+   ```mermaid
+graph LR
+                
+    A[4] --> B[3]
+    B --> C[12]
+    C --> D[3]
+    D --> E[16]
+    E --> F[9]
+    F --> G[9] --> Tail
+   
+```
+
 ## Algorithm
 
 Traverse the list from the head (start) node
@@ -126,5 +138,6 @@ function removeDuplicate(head) {
 ```
 
 ## Big O
+
 Time: O(n)
 Space: O(n)
