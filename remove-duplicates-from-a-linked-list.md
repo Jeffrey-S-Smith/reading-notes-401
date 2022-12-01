@@ -14,7 +14,7 @@ Head starts at 4
 
 ```mermaid
 flowchart LR 
-id1 4 --> 3 
+     4 --> 3 
     3 --> 12
     12 --> 3
     3 --> 16
