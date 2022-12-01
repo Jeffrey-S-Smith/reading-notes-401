@@ -113,9 +113,20 @@ when all node been checked and removed then end program.
 ## Code
 
 ```js
+
+/* Linked List Node */
+
+class Node
+    {
+        constructor(d) {
+            this.data = d;
+            this.next = null;
+          }
+    }
+
 function removeDuplicate(head) {
 
-  // Reference to head again
+  /* Reference to head again*/
   let current = head;
 
   // this is where you Traverse the list till the last node
