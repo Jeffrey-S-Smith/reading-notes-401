@@ -24,6 +24,8 @@ graph LR
     G --> H[null]
 ```
 
+### Removes duplicates
+
 ```mermaid
     graph LR
     A[4] --> B[3]
@@ -32,5 +34,18 @@ graph LR
     D --> E[16]
     E --> F[9]
     F --> G[9] --> Remove
+    G --> H[null]
+```
+
+### What is current
+
+```mermaid
+    graph LR
+  current --> A[4] --> B[3]
+    B --> C[12]
+    C --> D[3] 
+    D --> E[16]
+    E --> F[9]
+    F --> G[9] 
     G --> H[null]
 ```
