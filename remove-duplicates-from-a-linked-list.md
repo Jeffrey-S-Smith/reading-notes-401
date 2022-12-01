@@ -36,12 +36,18 @@ graph LR
     D --> E[16]
     E --> F[9]
     F --> G[9] --> Remove
+```
 
-     A[4] --> B[3]
+## What it looks like after duplicates are removed
+
+```mermaid
+    graph LR
+      A[4] --> B[3]
       B --> C[12]
       C --> D[16]
       E --> F[9]
 ```
+
 
 ### What is current
 
@@ -68,6 +74,7 @@ graph LR
     F --> G[9] 
     G --> H[null]
 ```
+
 ## This is where you Traverse the list till the last node
 
 ```mermaid
