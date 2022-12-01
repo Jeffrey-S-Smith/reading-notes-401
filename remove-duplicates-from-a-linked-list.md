@@ -49,3 +49,21 @@ graph LR
     F --> G[9] 
     G --> H[null]
 ```
+
+### What is current & current.next
+
+```mermaid
+    graph TB
+  current --> A[4] --> B[3]
+  current.next  B --> C[12]
+    C --> D[3] 
+    D --> E[16]
+    E --> F[9]
+    F --> G[9] 
+    G --> H[null]
+```
+
+
+
+
+### What is current & current.next
