@@ -36,7 +36,11 @@ graph LR
     D --> E[16]
     E --> F[9]
     F --> G[9] --> Remove
-    
+
+     A[4] --> B[3]
+      B --> C[12]
+      c --> D[16]
+      E --> F[9]
 ```
 
 ### What is current
