@@ -21,7 +21,7 @@ graph LR
     D --> E[16]
     E --> F[9]
     F --> G[9] --> Tail
-    G --> H[null]
+   
 ```
 
 ### Removes duplicates
@@ -66,4 +66,4 @@ graph LR
 
 
 
-### What is current & current.next
+```
