@@ -64,6 +64,8 @@ graph LR
     F --> G[9] 
     G --> H[null]
 ```
+## This is where you Traverse the list till the last node
+
 ```mermaid
     flowchart LR
    current --> A[4] --> B[3] --> current.next
