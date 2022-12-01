@@ -13,6 +13,6 @@ Head starts at 4
 ## output: 4 --> 3 --> 12 --> 16 --> 9
 
 ```mermaid
-flowchart LR
+flowchart 
 4 --> 3 --> 12 --> 3 --> 16 --> 9 --> 9;
 ```
