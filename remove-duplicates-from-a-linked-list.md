@@ -48,7 +48,7 @@ graph LR
       D --> E[9]
 ```
 
-## What is current? Current is the Node you are on the moment. Which right now is the starting Node with the data of 4.
+## What is current? Current is the Node you are on at the moment. Which right now is the starting Node with the data of 4.
 
 ```mermaid
     graph LR
