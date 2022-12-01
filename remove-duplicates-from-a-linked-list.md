@@ -25,6 +25,11 @@ graph LR
 ```
 
 ```mermaid
-graph LR
-  Head --> A[4]
+    A[4] --> B[3]
+    B --> C[12]
+    C --> D[3] --> Remove
+    D --> E[16]
+    E --> F[9]
+    F --> G[9] --> Remove
+    G --> H[null]
 ```
