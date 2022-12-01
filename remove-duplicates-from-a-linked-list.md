@@ -67,7 +67,7 @@ graph LR
 ```mermaid
     flowchart LR
    current --> A[4] --> B[3]
-    current.next --> A --> C[12]
+    A --> C[12] --> current.next
     A --> D[3] 
     A --> E[16]
     A --> F[9]
