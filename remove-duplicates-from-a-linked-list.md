@@ -15,3 +15,4 @@ Head starts at 4
 ```mermaid
 flowchart LR
 4 --> 3 --> 12 --> 3 --> 16 --> 9 --> 9;
+```
