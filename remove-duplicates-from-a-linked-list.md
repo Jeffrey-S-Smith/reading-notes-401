@@ -45,7 +45,7 @@ graph LR
       A[4] --> B[3]
       B --> C[12]
       C --> D[16]
-      E --> F[9]
+      D --> E[9]
 ```
 
 ## What is current
