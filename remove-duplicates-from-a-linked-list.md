@@ -15,12 +15,12 @@ Head starts at 4
 ```mermaid
 graph LR
                 
-    Head --> A[4] --> B[3]
+    Head -- A[4] --> B[3]
     B --> C[12]
     C --> D[3]
     D --> E[16]
     E --> F[9]
-    F --> G[9] <-- Tail
+    F --> G[9] -- Tail
    
 ```
 
