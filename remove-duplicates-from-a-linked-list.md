@@ -66,12 +66,12 @@ graph LR
 ```
 ```mermaid
     flowchart LR
-   current --> A[4] --> B[3]
+   current --> A[4] --> B[3] --> current.next
     A --> C[12] --> current.next
-    A --> D[3] 
-    A --> E[16]
-    A --> F[9]
-    A --> G[9] 
+    A --> D[3]  --> current.next
+    A --> E[16] --> current.next
+    A --> F[9] --> current.next
+    A --> G[9] --> current.next
    ```
 
 ## Algorithm
