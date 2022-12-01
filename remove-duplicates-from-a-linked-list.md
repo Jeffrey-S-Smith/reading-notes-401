@@ -66,8 +66,8 @@ graph LR
 ```
 ```mermaid
     flowchart LR
-    A[4] --> B[3]
-    A --> C[12]
+   current --> A[4] --> B[3]
+    current.next --> A --> C[12]
     A --> D[3] 
     A --> E[16]
     A --> F[9]
@@ -89,11 +89,7 @@ when all node been checked and removed then end program.
 ## Code
 
 ```js
-// head of the list
-
-let head = newNode();
-
-function removeDuplicate() {
+function removeDuplicate(head) {
 
   // Reference to head again
   let current = head;
