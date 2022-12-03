@@ -101,17 +101,22 @@ when all node been checked and removed then end program.
 ## Code
 
 ```js
-
-/* Linked List Node */
-
-class Node
+   /* Linked list Node*/
+    class Node
     {
-        constructor(d) {
-            this.data = d;
+        constructor(data) {
+            this.data = data;
             this.next = null;
           }
     }
 
+  class LinkedList {
+  constructor() {
+    this.head = null;
+  }
+
+    
+let head = new Node(); 
 function removeDuplicate(head) {
 
   /* Reference to head*/
@@ -134,9 +139,47 @@ function removeDuplicate(head) {
     current = current.next;
   }
 }
+
+   /* Puts a new Node at the front of the list. */
+    function push(newData)
+    {
+        /* Assigns the Node, and puts in the data*/
+        let newNode = new Node(newData);
+    
+        /* Makes next of new Node as the head */
+        newNode.next = head;
+    
+        /* This moves the head to point to new Node */
+        head = newNode;
+    }
+```
+
+## Test
+
+```js
+
+const LinkedList = require('file');
+
+
+describe('testing the Linked List data structure', () => {
+
+  test('Where it removes Duplicate from the LinkList', () => {
+    let list = new LinkedList;
+    list.push(4);
+    list.push(3);
+    list.push(12);
+    list.push(3);
+    list.push(16);
+    list.push(9);
+    list.push(9);
+    expect(list.push(5)).toEqual('4, 3, 12, 16, 9');
+  });
+}
+input: 4 --> 3 --> 12 --> 3 --> 16 --> 9 --> 9
+output: 4 --> 3 --> 12 --> 16 --> 9
 ```
 
 ## Big O
 
 Time: O(n)
-Space: O(n)
+Space: O(1)
